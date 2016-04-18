@@ -34,11 +34,11 @@ ul {
 }
 li a {
 	padding: 10px;
-	background-color: black;
+	border: 2px solid black;
     display: block;
     max-width: 100%;
 
-    color: white;
+    color: black;
     text-align: center;
 }
 

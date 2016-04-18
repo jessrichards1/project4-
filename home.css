@@ -1,0 +1,64 @@
+<style>
+
+html, body {
+		box-sizing: border-box;
+	}
+	*{
+		box-sizing: inherit;
+	}
+	html, body, h1, h2, h3, h4, h5, h6{
+		padding: 0;
+		margin: 0;
+	}
+body{
+	margin: 0 auto; 
+}
+
+
+
+h1{
+	font-size: 40pt;
+	padding-top: 75px;
+	padding-bottom: 60px;
+	margin-top: -30px;
+	text-align: center;
+	font-family: 'Noto Sans', sans-serif;
+	color: #ffffff;
+	background-color: #006633;
+}
+ul {
+	margin-top: 80px;
+	list-style-type: none;
+	margin-right: 500px;
+    margin-left: 480px;
+}
+li a {
+	padding: 10px;
+	background-color: black;
+    display: block;
+    max-width: 100%;
+
+    color: white;
+    text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+a:hover {
+	color: #00cc66;
+}
+ 
+}
+
+
+
+
+
+
+
+
+</style>

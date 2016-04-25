@@ -27,7 +27,7 @@ h1{
 	background-color: #006633;
 }
 ul {
-	margin-top: 80px;
+	margin-top: 60px;
 	list-style-type: none;
 	margin-right: 500px;
     margin-left: 480px;
@@ -46,15 +46,13 @@ a{
 	text-decoration: none;
 	color: white;
 	font-family: 'Noto Sans', sans-serif;
+	font-size: 14pt;
 }
 
 a:hover {
 	color: #00cc66;
 	border-color: #00cc66;
 }
- 
-}
-
 
 
 
